@@ -2,7 +2,7 @@
 Esta guía pretenden condensar lineamientos generales para la programación en C dentro del proyecto CIAA.
 ## Estilo de código
 El estilo de código base se sugiere que sea 'Java'.
- - En `ast`
+ - En `astyle` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc1NzU1MjBdfQ==
+eyJoaXN0b3J5IjpbMTQ1NTc0MDIzOF19
 -->
