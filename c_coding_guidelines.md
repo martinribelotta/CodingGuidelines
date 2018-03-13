@@ -6,19 +6,21 @@ El estilo de código base se sugiere que sea 'Java'.
  - En Eclipse el template de codigo se llama de igual manera: `Java`
 En otros IDE puede variar, pero siempre esta relacionado al estilo de llaves java, es decir, *attached braces*
 
+A continuación se detalla el esquema general con ejemplos de que esta bien y que esta mal en el id
 ```cpp
-int function() {
-   if (cond) {
-      while(cond) {
+int function() { // Bien
+   if (cond) { // Bien
+      while(cond)
+      { // Mal
       }
-   } else {
-      for (int i=0; i<10; i++) {
-	      printf("%d\n", i);
+   } else
+      { // Mal
+      for (int i=0; i<10; i++)
+          { printf("%d\n", i); } // Mal
       }
-   }
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTcyODAwNl19
+eyJoaXN0b3J5IjpbLTk3MTA2MjI2Ml19
 -->
