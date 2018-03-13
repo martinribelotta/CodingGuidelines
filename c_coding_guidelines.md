@@ -12,10 +12,13 @@ int function() {
       while(cond) {
       }
    } else {
+      for (int i=0; i<10; i++) {
+	      printf("%d\n", i);
+      }
    }
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjMxODQyMV19
+eyJoaXN0b3J5IjpbLTk5MTcyODAwNl19
 -->
