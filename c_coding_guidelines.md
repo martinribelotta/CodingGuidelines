@@ -6,6 +6,8 @@ El estilo de código base se sugiere que sea 'Java'.
  - En Eclipse el template de codigo se llama de igual manera: `Java`
 En otros IDE puede variar, pero siempre esta relacionado al estilo de llaves java, es decir, *attached braces*
 
+El espaciado usado son tres
+
 A continuación se detalla el esquema general con ejemplos de que esta bien y que esta mal en el uso de llaves:
 ```cpp
 int function() { // Bien
@@ -20,7 +22,9 @@ int function() { // Bien
       }
 }
 ```
+Para una explicación precisa de los *bracket styles* refierase a [la documentacion de aspell](http://astyle.sourceforge.net/astyle.html#_Brace_Style_Options)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjEzNDE2MDJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTU0NjQ0Ml19
 -->
