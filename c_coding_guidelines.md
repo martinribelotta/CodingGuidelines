@@ -9,10 +9,11 @@ En otros IDE puede variar, pero siempre esta relacionado al estilo de llaves jav
 ```cpp
 int function() {
    if (cond) {
-   } else 
+   } else {
+   }
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjgxMzcwM119
+eyJoaXN0b3J5IjpbLTk5MzY1MzgzXX0=
 -->
