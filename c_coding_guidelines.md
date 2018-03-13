@@ -2,7 +2,7 @@
 Esta guía pretenden condensar lineamientos generales para la programación en C dentro del proyecto CIAA.
 ## Estilo de código
 El estilo de código base se sugiere que sea 'Java'.
- - En `astyle` el parametro es `--style=java`
+ - En `astyle` el parámetro es `--style=java`
  - En Eclipse el template de codigo se llama de igual manera: `Java`
 En otros IDE puede variar, pero siempre esta relacionado al estilo de llaves java, es decir, *attached braces*
 
@@ -22,5 +22,5 @@ int function() { // Bien
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI3MzkzNjJdfQ==
+eyJoaXN0b3J5IjpbLTE0MjEzNDE2MDJdfQ==
 -->
