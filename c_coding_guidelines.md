@@ -5,6 +5,7 @@ El estilo de código base se sugiere que sea 'Java'.
  - En `astyle` el parametro es `--style=java`
  - En Eclipse el template de codigo se llama de igual manera: `Java`
 En otros IDE puede variar, pero siempre esta relacionado 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNTM5NTVdfQ==
+eyJoaXN0b3J5IjpbMjEwNjk5MjQzM119
 -->
